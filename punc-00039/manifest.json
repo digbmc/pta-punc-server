@@ -20,6 +20,8 @@
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
             "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
             "label": {
                 "none": [
                     ""
@@ -45,9 +47,11 @@
                             "motivation": "painting",
                             "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
                             "body": {
-                                "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de/full/undefined,undefined/0/default.jpg",
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
                                 "service": [
                                     {
                                         "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de",
@@ -55,6 +59,25 @@
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=412,336,215,156",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Barry is talking on the phone.</p>"
                             }
                         }
                     ]
