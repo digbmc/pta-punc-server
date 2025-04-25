@@ -1,0 +1,219 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-punc-server/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Punch-Drunk Love"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/84ae0bdf5338e60dc60c97c4078b63ab/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00144/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00149/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00156/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00212/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00230/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00238/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00240/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00242/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00245/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00249/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00253/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00255/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00304/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00321/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00355/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00404/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00415/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00436/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00517/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    null
+                ]
+            }
+        }
+    ]
+}
