@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://digbmc.github.io/pta-punc-server/punc-00304/badc0de/full/300,169/0/default.jpg",
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00304/137acf833cf255e9234c36e93c5641c9/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -20,6 +20,8 @@
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00304/canvas/1",
             "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
             "label": {
                 "none": [
                     ""
@@ -27,7 +29,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00304/badc0de/full/300,169/0/default.jpg",
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00304/137acf833cf255e9234c36e93c5641c9/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -45,12 +47,14 @@
                             "motivation": "painting",
                             "target": "https://digbmc.github.io/pta-punc-server/punc-00304/canvas/1",
                             "body": {
-                                "id": "https://digbmc.github.io/pta-punc-server/punc-00304/badc0de/full/undefined,undefined/0/default.jpg",
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00304/137acf833cf255e9234c36e93c5641c9/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00304/badc0de",
+                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00304/137acf833cf255e9234c36e93c5641c9",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

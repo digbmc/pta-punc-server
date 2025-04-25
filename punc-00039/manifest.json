@@ -7,9 +7,23 @@
             "PUNC-00039"
         ]
     },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        }
+    ],
     "thumbnail": [
         {
-            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de/full/300,169/0/default.jpg",
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/84ae0bdf5338e60dc60c97c4078b63ab/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -29,7 +43,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de/full/300,169/0/default.jpg",
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00039/84ae0bdf5338e60dc60c97c4078b63ab/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -47,14 +61,14 @@
                             "motivation": "painting",
                             "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
                             "body": {
-                                "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de/full/1920,1080/0/default.jpg",
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00039/84ae0bdf5338e60dc60c97c4078b63ab/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00039/badc0de",
+                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00039/84ae0bdf5338e60dc60c97c4078b63ab",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -73,11 +87,38 @@
                             "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=412,336,215,156",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",
-                                "value": "<p>Barry is talking on the phone.</p>"
+                                "value": "<p>Isolated in a weird office room</p>"
+                            }
+                        },
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=212,335,455,422",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": {
+                                    "x": 212,
+                                    "y": 335,
+                                    "width": 455,
+                                    "height": 422
+                                }
+                            }
+                        },
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=436,358,308,143",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Barry is wearing a <a href=\"https://en.wikipedia.org/wiki/Blue\">blue</a> suit that makes him blend into the wall behind him.</p>"
                             }
                         }
                     ]
