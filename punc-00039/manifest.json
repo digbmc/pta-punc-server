@@ -218,6 +218,17 @@
                                 "format": "text/html",
                                 "value": "<p>Isolated in a weird office room</p>"
                             }
+                        },
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=415,350,227,147",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Barry is talking on the phone. (Selection note)</p>"
+                            }
                         }
                     ]
                 }
