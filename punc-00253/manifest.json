@@ -11,6 +11,18 @@
         {
             "label": {
                 "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:02:53"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Film"
                 ]
             },
@@ -35,24 +47,24 @@
         {
             "label": {
                 "none": [
-                    "Angle"
-                ]
-            },
-            "value": {
-                "none": [
-                    "eye-level"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
                     "Distance"
                 ]
             },
             "value": {
                 "none": [
                     "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
                 ]
             }
         },
@@ -89,18 +101,6 @@
             "value": {
                 "none": [
                     "low key"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Timestamp"
-                ]
-            },
-            "value": {
-                "none": [
-                    "0:02:53"
                 ]
             }
         }

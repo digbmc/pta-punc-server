@@ -11,6 +11,18 @@
         {
             "label": {
                 "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:02:08"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Film"
                 ]
             },
@@ -35,24 +47,24 @@
         {
             "label": {
                 "none": [
-                    "Angle"
-                ]
-            },
-            "value": {
-                "none": [
-                    "eye-level, over the shoulder"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
                     "Distance"
                 ]
             },
             "value": {
                 "none": [
                     "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level, over the shoulder"
                 ]
             }
         },
@@ -113,18 +125,6 @@
             "value": {
                 "none": [
                     "long take"
-                ]
-            }
-        },
-        {
-            "label": {
-                "none": [
-                    "Timestamp"
-                ]
-            },
-            "value": {
-                "none": [
-                    "0:02:08"
                 ]
             }
         }
