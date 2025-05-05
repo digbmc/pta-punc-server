@@ -136,7 +136,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://digbmc.github.io/pta-punc-server/punc-00321/3c74d64f6370fa843a1b0dd2913a2232/full/300,169/0/default.jpg",
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00321/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -168,7 +168,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00321/3c74d64f6370fa843a1b0dd2913a2232/full/300,169/0/default.jpg",
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00321/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -186,14 +186,14 @@
                             "motivation": "painting",
                             "target": "https://digbmc.github.io/pta-punc-server/punc-00321/canvas/1",
                             "body": {
-                                "id": "https://digbmc.github.io/pta-punc-server/punc-00321/3c74d64f6370fa843a1b0dd2913a2232/full/1920,1080/0/default.jpg",
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00321/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00321/3c74d64f6370fa843a1b0dd2913a2232",
+                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00321/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
