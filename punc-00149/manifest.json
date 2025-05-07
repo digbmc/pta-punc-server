@@ -1,1 +1,208 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-punc-server/punc-00149/manifest.json","type":"Manifest","label":{"none":["PUNC-00149"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:01:49"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["long shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level"]}},{"label":{"none":["Location"]},"value":{"none":["interior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, pan"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man walks across a dark room."]},"thumbnail":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00149","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00149"]},"thumbnail":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1","body":{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/3e1550cc-67c5-4ec9-abee-4e3f2ed8710e","type":"Annotation","motivation":"commenting","body":[{"created":"2025-05-07T17:29:41.719Z","creator":"Alice Tweedy McGrath","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>This is dark and you can barely make out objects in the room</p>"}],"target":"https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1#xywh=1338,214,525,790"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-punc-server/punc-00149/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00149"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:01:49"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "interior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, pan"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man walks across a dark room."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "PUNC-00149",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Object homepage"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00149"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1",
+                            "body": {
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00149/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00149/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
