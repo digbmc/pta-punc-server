@@ -176,7 +176,13 @@
                                 ]
                             }
                         }
-                    ]
+                    ],
+                    "annotations": [
+                        {
+                          "id": "https://digbmc.github.io/pta-punc-server/punc-00245/annotations.json",
+                          "type": "AnnotationPage"
+                        }
+                      ]
                 }
             ]
         }
