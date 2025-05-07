@@ -1,0 +1,21 @@
+{
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1/3e1550cc-67c5-4ec9-abee-4e3f2ed8710e",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": [
+                {
+                    "created": "2025-05-07T17:29:41.719Z",
+                    "creator": "Alice Tweedy McGrath",
+                    "purpose": "commenting",
+                    "type": "TextualBody",
+                    "format": "text/html",
+                    "value": "<p>This is dark and you can barely make out objects in the room</p>"
+                }
+            ],
+            "target": "https://digbmc.github.io/pta-punc-server/punc-00149/canvas/1#xywh=1338,214,525,790"
+        }
+    ]
+}
