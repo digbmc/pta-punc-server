@@ -1,1 +1,39 @@
-{"type":"AnnotationPage","items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1/bc903dc8-ca74-4782-9ccb-581e9b4da01b","type":"Annotation","motivation":"commenting","body":[{"created":"2025-05-07T18:38:27.907Z","creator":"Alice Tweedy McGrath","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>Checker cab co.</p>"}],"target":"https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1#xywh=407,396,599,287"},{"id":"https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1/91a31ef5-46b9-4c5a-90fb-4342e46edf71","type":"Annotation","motivation":"commenting","body":[{"created":"2025-05-07T18:38:48.442Z","creator":"Alice Tweedy McGrath","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>I can't read this.</p>"}],"target":"https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1#xywh=1563,461,203,246"}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-punc-server/punc-00245/annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1/bc903dc8-ca74-4782-9ccb-581e9b4da01b",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": [
+                {
+                    "created": "2025-05-07T18:38:27.907Z",
+                    "creator": "Alice Tweedy McGrath",
+                    "purpose": "commenting",
+                    "type": "TextualBody",
+                    "format": "text/html",
+                    "value": "<p>Checker cab co.</p>"
+                }
+            ],
+            "target": "https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1#xywh=407,396,599,287"
+        },
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1/91a31ef5-46b9-4c5a-90fb-4342e46edf71",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "body": [
+                {
+                    "created": "2025-05-07T18:38:48.442Z",
+                    "creator": "Alice Tweedy McGrath",
+                    "purpose": "commenting",
+                    "type": "TextualBody",
+                    "format": "text/html",
+                    "value": "<p>I can't read this.</p>"
+                }
+            ],
+            "target": "https://digbmc.github.io/pta-punc-server/punc-00245/canvas/1#xywh=1563,461,203,246"
+        }
+    ]
+}
