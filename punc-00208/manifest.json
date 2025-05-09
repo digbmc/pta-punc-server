@@ -1,1 +1,197 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://digbmc.github.io/pta-punc-server/punc-00208/manifest.json","type":"Manifest","label":{"none":["PUNC-00208"]},"metadata":[{"label":{"none":["Timestamp"]},"value":{"none":["0:02:08"]}},{"label":{"none":["Film"]},"value":{"none":["Punch-Drunk Love"]}},{"label":{"none":["Creator"]},"value":{"none":["Paul Thomas Anderson"]}},{"label":{"none":["Distance"]},"value":{"none":["medium shot"]}},{"label":{"none":["Angle"]},"value":{"none":["eye-level, over the shoulder"]}},{"label":{"none":["Location"]},"value":{"none":["exterior"]}},{"label":{"none":["Movement"]},"value":{"none":["mobile, handheld, pan, tracking"]}},{"label":{"none":["Lighting"]},"value":{"none":["low key"]}},{"label":{"none":["Composition"]},"value":{"none":["single shot"]}},{"label":{"none":["Duration"]},"value":{"none":["long take"]}}],"summary":{"none":["A man stands outside."]},"thumbnail":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"homepage":[{"id":"PUNC-00208","type":"Text","format":"text/html","label":{"none":["Object homepage"]}}],"items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1","type":"Canvas","height":1080,"width":1920,"label":{"none":["PUNC-00208"]},"thumbnail":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg","type":"Image","format":"image/jpeg","height":169,"width":300}],"items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1","type":"AnnotationPage","items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1/anno-1","type":"Annotation","motivation":"painting","target":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1","body":{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/1920,1080/0/default.jpg","type":"Image","format":"image/jpeg","height":1080,"width":1920,"service":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/tiles","type":"ImageService3","profile":"http://iiif.io/api/image/3/level0.json"}]}}]}],"annotations":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/page/p1","type":"AnnotationPage","items":[{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/99f0014e-d483-49eb-9ffb-66876e981eb0","type":"Annotation","motivation":"commenting","body":[{"created":"2025-05-07T18:11:10.470Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>Trees!</p>"}],"target":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1#xywh=1130,255,486,161"},{"id":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/7aedf1b3-db06-4ebc-a3dd-7946036cb21a","type":"Annotation","motivation":"commenting","body":[{"created":"2025-05-07T18:11:26.737Z","creator":"Cameron Boucher","purpose":"commenting","type":"TextualBody","format":"text/html","value":"<p>big bay door</p>"}],"target":"https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1#xywh=828,101,176,545"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "PUNC-00208"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Timestamp"
+                ]
+            },
+            "value": {
+                "none": [
+                    "0:02:08"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Film"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Punch-Drunk Love"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paul Thomas Anderson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Distance"
+                ]
+            },
+            "value": {
+                "none": [
+                    "medium shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Angle"
+                ]
+            },
+            "value": {
+                "none": [
+                    "eye-level, over the shoulder"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Location"
+                ]
+            },
+            "value": {
+                "none": [
+                    "exterior"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Movement"
+                ]
+            },
+            "value": {
+                "none": [
+                    "mobile, handheld, pan, tracking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Lighting"
+                ]
+            },
+            "value": {
+                "none": [
+                    "low key"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Composition"
+                ]
+            },
+            "value": {
+                "none": [
+                    "single shot"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Duration"
+                ]
+            },
+            "value": {
+                "none": [
+                    "long take"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "A man stands outside."
+        ]
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1",
+            "type": "Canvas",
+            "height": 1080,
+            "width": 1920,
+            "label": {
+                "none": [
+                    "PUNC-00208"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 169,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1",
+                            "body": {
+                                "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/1920,1080/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "width": 1920,
+                                "service": [
+                                    {
+                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
