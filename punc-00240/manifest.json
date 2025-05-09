@@ -122,6 +122,7 @@
             "A man gasps in shock."
         ]
     },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00240/tiles/full/300,169/0/default.jpg",

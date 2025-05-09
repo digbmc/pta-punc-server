@@ -110,6 +110,7 @@
             "A harmonium in the street."
         ]
     },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00318/tiles/full/300,169/0/default.jpg",

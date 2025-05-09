@@ -134,6 +134,7 @@
             "A man drinking from a coffee cup watches as a woman steps out of her car."
         ]
     },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00436/tiles/full/300,169/0/default.jpg",
