@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "PUNC-00039"
+            null
         ]
     },
     "metadata": [
@@ -143,18 +143,6 @@
             "width": 300
         }
     ],
-    "homepage": [
-        {
-            "id": "PUNC-00039",
-            "type": "Text",
-            "format": "text/html",
-            "label": {
-                "none": [
-                    "Object homepage"
-                ]
-            }
-        }
-    ],
     "items": [
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
@@ -198,36 +186,6 @@
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Isolated in a weird office room</p>"
-                            }
-                        },
-                        {
-                            "id": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1/annopage-2/anno-2",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://digbmc.github.io/pta-punc-server/punc-00039/canvas/1#xywh=415,350,227,147",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>Barry is talking on the phone. (Selection note)</p>"
                             }
                         }
                     ]

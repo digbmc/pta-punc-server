@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "PUNC-00517"
+            null
         ]
     },
     "metadata": [
@@ -141,18 +141,6 @@
             "format": "image/jpeg",
             "height": 169,
             "width": 300
-        }
-    ],
-    "homepage": [
-        {
-            "id": "PUNC-00517",
-            "type": "Text",
-            "format": "text/html",
-            "label": {
-                "none": [
-                    "Object homepage"
-                ]
-            }
         }
     ],
     "items": [
