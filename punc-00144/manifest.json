@@ -134,6 +134,7 @@
             "A man stands from his desk."
         ]
     },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
             "id": "https://digbmc.github.io/pta-punc-server/punc-00144/tiles/full/300,169/0/default.jpg",
@@ -141,18 +142,6 @@
             "format": "image/jpeg",
             "height": 169,
             "width": 300
-        }
-    ],
-    "homepage": [
-        {
-            "id": "PUNC-00144",
-            "type": "Text",
-            "format": "text/html",
-            "label": {
-                "none": [
-                    "Object homepage"
-                ]
-            }
         }
     ],
     "items": [
@@ -198,25 +187,6 @@
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00144/canvas/1/annopage-2",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://digbmc.github.io/pta-punc-server/punc-00144/canvas/1/annopage-2/anno-1",
-                            "type": "Annotation",
-                            "motivation": "commenting",
-                            "target": "https://digbmc.github.io/pta-punc-server/punc-00144/canvas/1",
-                            "body": {
-                                "type": "TextualBody",
-                                "format": "text/html",
-                                "value": "<p>another note</p>"
                             }
                         }
                     ]
