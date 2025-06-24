@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/manifest.json",
+    "id": "https://digbmc.github.io/pta-manifests/punc/punc-00208/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -136,7 +136,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/tiles/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -157,7 +157,7 @@
     ],
     "items": [
         {
-            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1",
+            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1",
             "type": "Canvas",
             "height": 1080,
             "width": 1920,
@@ -168,7 +168,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/300,169/0/default.jpg",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/tiles/full/300,169/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 169,
@@ -177,28 +177,52 @@
             ],
             "items": [
                 {
-                    "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1",
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1/annopage-1/anno-1",
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://digbmc.github.io/pta-punc-server/punc-00208/canvas/1",
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1",
                             "body": {
-                                "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles/full/1920,1080/0/default.jpg",
+                                "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/tiles/full/1920,1080/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1080,
                                 "width": 1920,
                                 "service": [
                                     {
-                                        "id": "https://digbmc.github.io/pta-punc-server/punc-00208/tiles",
+                                        "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/tiles",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1/87f634f7-92af-49c5-9086-28e99a83ecd0",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": [
+                                {
+                                    "created": "2025-06-24T15:00:10.006Z",
+                                    "creator": "Alice Tweedy McGrath",
+                                    "purpose": "commenting",
+                                    "type": "TextualBody",
+                                    "format": "text/html",
+                                    "value": "<p>The camera that follows Barry seems to be handheld (and slightly shaky), reinforcing the instability audiences might feel not knowing his name, where he is, or anything else about him. The rack focus and cut to yet another slightly shaky camera into the street reinforces the rarified scene and offers a sense that audiences are&nbsp;in his shoes. The silence in the scene creates a strong contrast with the loud and shocking crash that follows, adding to the rarified tenor of Punch-Drunk Love's opening sequence.​</p>"
+                                }
+                            ],
+                            "target": "https://digitalscholarship.brynmawr.edu/pta/punc/punc-00208/canvas/1#xywh=6,148,880,797"
                         }
                     ]
                 }
